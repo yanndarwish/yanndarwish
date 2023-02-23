@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hey, I'm Yann 👋
 
-<!--
-**yanndarwish/yanndarwish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+--- 
 
-Here are some ideas to get you started:
+I'm a software engineer that loves to build cool applications and solve everyday problems with code.
+I'll gladly spend two weeks automating a one minute task. Totally worth it, don't you think ?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+```javascript
+const yann = {
+  code: [JavaScript, HTML, CSS, SQL],
+  tools: [React, Redux, Jest, Node, Express, Styled-Components, Sass, MUI Materials],
+  isHirable: true,
+  languages: [French, English, Swedish]
+  }
+```
