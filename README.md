@@ -9,8 +9,8 @@ I'll gladly spend two weeks automating a one minute task. Totally worth it, don'
 
 ```javascript
 const yann = {
-  code: [JavaScript, HTML, CSS, SQL],
-  tools: [React, Redux, Jest, Node, Express, Styled-Components, Sass, "MUI Materials"],
+  code: [TypeScript, HTML, CSS, SQL],
+  tools: [React, Redux, TailwindCss, Jest, Node, Express, Styled-Components, Sass, MUI Materials],
   isHirable: true,
   languages: [French, English, Swedish]
   }
